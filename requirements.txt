@@ -5,3 +5,4 @@ plotly==5.11.0
 scikit_learn==1.2.2
 streamlit
 altair<5.0.0
+distutils
